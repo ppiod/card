@@ -85,14 +85,6 @@ body {
     margin: 5px; 
 }
 
-.card .date {
-    font-size: 0.8rem; 
-    color: #888888; 
-    opacity: 0.7; 
-    transform: translateY(2px); 
-    position: relative;
-}
-
 @media (max-width: 600px) {
     body {
         flex-direction: column; 
